@@ -4,7 +4,7 @@ Introduction:
   This number-plate recognition model is designed to identify and extract the number plates of vehicles from images.
 
 Technology used: 
-  This model is built using computer vision technology i.e easyocr, openCV,yolov5, deep learning API i.e keras and user-interface using flask, which allow it to accurately detect and extract number plates from images.
+  This model is built using computer vision technology i.e easyocr, openCV, yolov5, deep learning API i.e keras and user-interface using flask, which allow it to accurately detect and extract number plates from images.
 
 Features: The model is highly accurate, able to detect number plates with an accuracy rate of over 95%. Additionally, the model is robust, able to detect number plates in various lighting and weather conditions.
 
